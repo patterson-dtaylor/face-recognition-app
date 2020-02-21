@@ -9,7 +9,7 @@ import './App.css';
 const particlesOptions = {
   "particles": {
       "number": {
-          "value": 100
+          "value": 150
       },
       "size": {
           "value": 5
